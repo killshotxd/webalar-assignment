@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  height: 100%;
+  margin-top: 2rem;
+  padding: 3rem;
+  justify-content: space-between;
+}
+
+.btn {
+  width: 200px;
+  height: 44px;
+  left: 1158px;
+  top: 46px;
+
+  background: #43dde6;
+  border-radius: 44px;
+}
+
+.left {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.right img {
+  width: 36.25rem;
+  height: 34.375rem;
+}
+
+.left h1 {
+  color: #364f6b;
+  line-height: 5.375rem;
+  font-weight: 500;
+  width: 38.125rem;
+  font-size: 72px;
+}
+
+.heading {
+  width: 38.125rem;
+  height: 16.125rem;
+}
+
+.left a {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
