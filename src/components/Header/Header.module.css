@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 15vh;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 20rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px 10px;
+  height: 10vh;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.right {
+  display: flex;
+  gap: 2rem;
+  text-align: center;
+}
+
+.right a {
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  width: 200px;
+  height: 44px;
+  left: 1158px;
+  top: 46px;
+
+  background: #43dde6;
+  border-radius: 44px;
+}
