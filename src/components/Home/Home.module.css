@@ -50,3 +50,36 @@
   text-decoration: none;
   color: black;
 }
+
+.container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rectangle {
+  width: 1340px;
+  height: 1050px;
+  left: 50px;
+  top: 782px;
+
+  background: #364f6b;
+  border-radius: 32px;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  gap: 2rem;
+  color: white;
+}
+
+.line {
+  width: 200px;
+  height: 4px;
+  left: 348px;
+  top: 866px;
+  background: #d9d9d9;
+}
